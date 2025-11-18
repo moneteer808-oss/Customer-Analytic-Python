@@ -1,0 +1,19 @@
+# Virtual environments
+env/
+venv/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data cache / temp files
+data/*.zip
+output/*.pickle
+output/*.pkl
+output/*.feather
+
+# OS files
+.DS_Store
